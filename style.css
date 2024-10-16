@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&family=Poppins:wght@100;300;400;500;600;700;800;900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Atma", system-ui;
+}
+img {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-left: 700px;
+}
+p  {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+input {
+    padding: 10px 5px;
+    margin-left: 600px;
+    border-radius: 3px;
+    border: 1px solid #cbd6e2;
+    font-size: 16px;
+    transition: all .15s ease-out;
+    background-color: #cbd6e2;
+    color: #33475b;
+    display: block;
+    height: 40px;
+    line-height: 5px;
+    text-align: left;
+    vertical-align: middle;
+    width: 500px;
+    margin-top: -80px;
+}
+input:hover {
+    text-decoration: none;
+}
+h1 {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    margin-bottom: 85px;
+    font-size: 18px;
+    margin-right: 350px;
+    margin-top: 30px;
+}
+.forget h1 {
+    
+    margin-right: 700px;
+}
+.Remember h1 {
+    margin-left: 500px;
+}
+button {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 600px;
+    padding: 5px 200px ;
+}
+button:hover {
+    background-color: #ff7a59;
+}
